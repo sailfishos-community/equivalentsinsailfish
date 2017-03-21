@@ -1,9 +1,9 @@
 # equivalentsinsailfish
 Equivalents in Sailfish
 
-| Uygulama Türü      | Andorid Uygulaması | Açıklaması | Sailfish Uygulaması | Açıklaması |
+| App Type           | Andorid App        | Description | Sailfish App        | Notes      |
 |--------------------|--------------------|------------|---------------------|------------|
-|                    | AccuWeather        |            |                     |            |
+|                    | [AccuWeather](https://play.google.com/store/apps/details?id=com.accuweather.android)        | worldwide weather forecasting services           | [MeeCast](https://openrepos.net/content/vasvlad/meecast)                    | multiplatform highly customizable open source weather forecast client based on OMWeather code            |
 |                    | AlarmPiyasa        |            |                     |            |
 |                    | AudioRecorder      |            |                     |            |
 |                    | Chrome             |            |                     |            |
