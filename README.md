@@ -3,7 +3,8 @@ Equivalents in Sailfish
 
 | App Type           | Andorid App        | Description | Sailfish App        | Notes      |
 |--------------------|--------------------|------------|---------------------|------------|
-|                    | [AccuWeather](https://play.google.com/store/apps/details?id=com.accuweather.android)        | worldwide weather forecasting services           | [MeeCast](https://openrepos.net/content/vasvlad/meecast)                    | multiplatform highly customizable open source weather forecast client based on OMWeather code            |
+| Weather            | [AccuWeather](https://play.google.com/store/apps/details?id=com.accuweather.android)        | worldwide weather forecasting services           | [MeeCast](https://openrepos.net/content/vasvlad/meecast)                    | multiplatform highly customizable open source weather forecast client based on OMWeather code            |
+|                    |                    |            | [Sailfish Weather](https://jolla.zendesk.com/hc/en-us/articles/204755917-Weather) | weather information for a location set by you with a quick glance at the Events screen.|
 |                    | AlarmPiyasa        |            |                     |            |
 |                    | AudioRecorder      |            |                     |            |
 |                    | Chrome             |            |                     |            |
