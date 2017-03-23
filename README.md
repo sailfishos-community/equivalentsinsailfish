@@ -12,18 +12,18 @@ Equivalents in Sailfish
 | Productivity       | [Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs)              |  a safe place for all your files and puts them within reach from any smartphone, tablet, or computer          |                     |            |
 | Productivity   | [Dropbox](https://play.google.com/store/apps/details?id=com.dropbox.android)            | a place for your photos, docs, videos, and other files. Files you keep in Dropbox are safely backed up and you can get to them from all your devices. It’s easy to send large files to anyone, even if they don’t have a Dropbox account.           |                     |            |
 | Language            | [Duolingo](https://play.google.com/store/apps/details?id=com.duolingo)           | An app that allows you to practice your speaking, reading, listening and writing skills while playing a game! You'll improve your vocabulary and grammar skills by answering questions and completing lessons. Start with basic verbs, phrases, and sentences, and learn new words daily.           |                     |            |
-|                    | [e-Devlet]()           |            |                     |            |
-|                    | [Google Earth]()       |            |                     |            |
-|                    | [Enpara.com]()         |            |                     |            |
-|                    | [Es Dosya Yöneticisi]()|            |                     |            |
-|                    | [Facebook]()           |            |                     |            |
-|                    | [Feedly]()             |            |                     |            |
-|                    | [Firefox]()            |            |                     |            |
-|                    | [Fit]()                |            |                     |            |
-|                    | [ForkHub]()            |            |                     |            |
-|                    | [Gmail]()              |            |                     |            |
-|                    | [Google El Yazısı]()   |            |                     |            |
-|                    | [Google+]()            |            |                     |            |
+| Productivity         | [e-Devlet](https://play.google.com/store/apps/details?id=tr.gov.turkiye.edevlet.kapisi)           | an application that you can use services from www.turkiye.gov.tr           |                     |            |
+| Maps & Navigation  | [Google Earth](https://play.google.com/store/apps/details?id=com.google.earth)       | an app that enables you to explore the globe with a swipe of your finger           |                     |            |
+| Finance            | [Enpara.com](https://play.google.com/store/apps/details?id=finansbank.enpara)         | a mobile banking app          |                     |            |
+| Productivity       | [ES File Explorer File Manager](https://play.google.com/store/apps/details?id=com.estrongs.android.pop)| a full-featured file manager for both local and networked use           |                     |            |
+| Social Media       | [Facebook](https://play.google.com/store/apps/details?id=com.facebook.katana)           | An application that helps you stay in touch with your friends           |                     |            |
+| News & Magazines   | [Feedly](https://play.google.com/store/apps/details?id=com.devhd.feedly)             | a central place to organize, read, and share the information you need to stay ahead of the next big trend in your industry           |                     |            |
+| Browser            | [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox)            | an independent, people-first browser made by Mozilla           |                     |            |
+| Health & Fitness   | [Fit](https://play.google.com/store/apps/details?id=com.google.android.apps.fitness)                | a fitness tracking app. As you walk, run, or cycle throughout the day, your phone or Android Wear watch automatically logs them with Google Fit.           |                     |            |
+| Productivity       | [ForkHub](https://play.google.com/store/apps/details?id=jp.forkhub)            | a open source GitHub client that started off as a fork of the official Android app from GitHub after they abandoned it, and has since seen lots of improvements.           |                     |            |
+| Communication      | [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm)              | an easy to use email app that saves you time and keeps your messages safe. Get your messages instantly via push notifications, read and respond online & offline, and find any message quickly.            |                     |            |
+| Tool               | [Google El Yazısı](https://play.google.com/store/apps/details?id=com.google.android.apps.handwriting.ime)   | an app that allows you to handwrite text on your phone or tablet in 97 languages           |                     |            |
+| Social Media      | [Google+](https://play.google.com/store/apps/details?id=com.google.android.apps.plus)            | an app that helps to you discover amazing things created by passionate people   |                   |            |
 |                    | [GPS Alarm]()          |            |                     |            |
 |                    | [Graph 89 Free]()      |            |                     |            |
 |                    | [Hacker News]()        |            |                     |            |
@@ -36,7 +36,7 @@ Equivalents in Sailfish
 |                    | [Google Keep]()        |            |                     |            |
 |                    | [MHRS]()               |            |                     |            |
 |                    | [Moovit]()             |            |                     |            |
-|                    | [Nike Training]()      |            |                     |            |
+| Health & Fitness   | [Nike Training]()      |            |                     |            |
 |                    | [RAR]()                |            |                     |            |
 | Communication      | [Ring](https://play.google.com/store/apps/details?id=cx.ring)               | an app that allows to make audio or video calls, and to send messages, safely and freely, in confidence. Powered by Savoir-faire Linux, Ring is a open source software that requires no central server.            |                     |            |
 | Shopping           | [Sahibinden](https://play.google.com/store/apps/details?id=com.sahibinden)         | an online shopping and advertising platform where announcements and e-commerce transactions are made.           |                     |            |
