@@ -1,5 +1,5 @@
-# equivalentsinsailfish
-Equivalents in Sailfish
+# Equivalents in Sailfish
+The following list includes some Android apps and their Sailfish equivalents.
 
 | App Type           | Andorid App        | Description | Sailfish App        | Notes      |
 |--------------------|--------------------|------------|---------------------|------------|
