@@ -52,6 +52,7 @@ The following list includes some Android apps and their Sailfish equivalents.
 | Video              | [VLC](https://play.google.com/store/apps/details?id=org.videolan.vlc)                | a free and open source cross-platform multimedia player that plays most multimedia files as well as discs, devices, and network streaming protocols           |         |            |
 | Education          | [Wabbitemu](https://play.google.com/store/apps/details?id=com.Revsoft.Wabbitemu)          | a graphing calculator emulator that allows you to always have your trusty calculator with you           | [Ti85emu](https://openrepos.net/content/halftux/ti85emu)                    | Ti85 emulator. You will need a rom file, it is not included. |
 | Communication                   | [WhatsApp](https://play.google.com/store/apps/details?id=com.whatsapp)           | a free messaging app to let you message and call friends and family            |                     |            |
+| Education | [WolframAlpha](https://play.google.com/store/apps/details?id=com.wolfram.android.alpha) |  a computational knowledge engine or answer engine | [sailwalpha](https://github.com/TeemuAhola/sailwalpha) | WolframAlpha client for Sailfish OS. No release yet. |
 | Video              | [YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube)            | official YouTube app to see what the world is watching         |      |    |
 
 
