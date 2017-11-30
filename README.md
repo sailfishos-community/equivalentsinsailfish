@@ -54,7 +54,7 @@ The following list includes some Android apps and their Sailfish equivalents.
 | Education          | [Wabbitemu](https://play.google.com/store/apps/details?id=com.Revsoft.Wabbitemu)          | a graphing calculator emulator that allows you to always have your trusty calculator with you           | [Ti85emu](https://openrepos.net/content/halftux/ti85emu)                    | Ti85 emulator. You will need a rom file, it is not included. |
 | Communication                   | [WhatsApp](https://play.google.com/store/apps/details?id=com.whatsapp)           | a free messaging app to let you message and call friends and family            |   [Whatsup](https://openrepos.net/content/htheb/whatsup-sailfish-os)       | a third party WhatsApp client. Not works, don't use it for now. |
 | Education | [WolframAlpha](https://play.google.com/store/apps/details?id=com.wolfram.android.alpha) |  a computational knowledge engine or answer engine | [sailwalpha](https://github.com/TeemuAhola/sailwalpha) | WolframAlpha client for Sailfish OS. No release yet. |
-| Video              | [YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube)            | official YouTube app to see what the world is watching         | YTPlayer | a YouTube client for Sailfish OS |
+| Video              | [YouTube](https://play.google.com/store/apps/details?id=com.google.android.youtube)            | official YouTube app to see what the world is watching         | [YTPlayer](https://openrepos.net/content/osetr/ytplayer-fork) | a YouTube client for Sailfish OS |
 
 
 ## Turkey-specific
