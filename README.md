@@ -1,5 +1,5 @@
 # Equivalents in Sailfish
-The following list includes some Android apps and their Sailfish equivalents.
+The following list includes some Android apps and their Sailfish equivalents. You can also use [App search](https://jollacommunity.it/app-search/) from Jolla Community Italia.
 
 | App Type           | Andorid App        | Description | Sailfish App        | Notes      |
 |--------------------|--------------------|------------|---------------------|------------|
