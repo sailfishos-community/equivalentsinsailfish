@@ -1,5 +1,12 @@
 # Equivalents in Sailfish
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+- [Turkey-specific](#turkey-specific)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 The following list includes some Android apps and their Sailfish equivalents. You can also use [App search](https://jollacommunity.it/app-search/) from Jolla Community Italia.
 
 | App Type          | Andorid App                                                                                                       | Description                                                                                                                                                                                                                                                                                                  | Sailfish App                                                                                 | Notes                                                                                                                                                                                                                                                                                               |
