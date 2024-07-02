@@ -8,7 +8,7 @@ ci:
 repos:
   # Official pre-commit hooks that everyone using it likely has
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v4.5.0
+    rev: v4.6.0
     hooks:
       - id: check-added-large-files
       - id: check-case-conflict
@@ -27,7 +27,7 @@ repos:
 
   # Prettier markdown formatting
   - repo: https://github.com/pre-commit/mirrors-prettier
-    rev: "v3.0.3"
+    rev: "v4.0.0-alpha.8"
     hooks:
       - id: prettier
         # In case of autoupdate offering unstable releases
