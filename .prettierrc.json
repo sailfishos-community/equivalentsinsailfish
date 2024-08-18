@@ -1,0 +1,7 @@
+{
+  "bracketSameLine": true,
+  "endOfLine": "lf",
+  "proseWrap": "always",
+  "quoteProps": "consistent",
+  "singleAttributePerLine": true
+}
